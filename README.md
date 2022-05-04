@@ -10,4 +10,4 @@ Created in Blender 3.1.2 and Godot 3.4.2
 
 ## Created By
 
-Jason Francis
+Elayne Mason
